@@ -1,0 +1,1 @@
+The Firebase Authentication SDK might throw an unexpected error if the user's email or password is incorrect, or if there's a network issue.  The error messages aren't always clear, and the SDK doesn't provide specific details for debugging. For example, a generic 'auth/internal-error' might occur without an obvious root cause.
